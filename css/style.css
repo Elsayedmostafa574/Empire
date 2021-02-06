@@ -25,11 +25,12 @@
     color: white !important;
 }
 .Home .navbar .navbar-brand{
-    font-size: 30px;
+    font-size: 25px;
+    transition: all ease-in-out 0.4s;
+
 }
 .Home .navbar .navbar-brand:hover{
     font-size: 35px;
-    transition: all ease-in-out 0.4s;
 }
 .about{
     background-color: black;
